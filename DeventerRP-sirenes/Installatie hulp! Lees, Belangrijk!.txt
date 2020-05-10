@@ -1,0 +1,9 @@
+Nederlandse Sirenes
+
+Hoe te Installeren:
+
+1. Sleep de map "x64" in je [Grand Theft Auto V] instalatie map (Waar je GTA5.exe zich bevind.)
+(Als die bestanden moet overschrijven, sta dit dan toe.
+Indien je dat niet doet, zal het NIET goed werken.)
+
+Indien je de originele GTA V Sirenes daarna nog in-game hoord, heb je het mapje "x64" er NIET goed in gezet.
